@@ -8,5 +8,4 @@ I want to make more money
 
 practice again
 
-
-
+git tracks changes
