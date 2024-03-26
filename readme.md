@@ -9,3 +9,5 @@ I want to make more money
 practice again
 
 git tracks changes of files
+
+create a new branch is quick
