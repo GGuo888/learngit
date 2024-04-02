@@ -2,3 +2,4 @@
 修改file1文件练习版本回滚
 create a branch is quick and simple -- self test
 rebase practice
+练习变基
