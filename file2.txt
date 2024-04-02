@@ -1,3 +1,4 @@
 使用git提交多个文件2
 practice again
+修改不同的文件联系rebase
 
